@@ -1,4 +1,4 @@
-button {
+.likebtn {
 	height:100px;
 	width:320px;
 	border-radius: 15px;
@@ -9,4 +9,18 @@ button {
 	color:white;
 	font-size: 25px;
 }
+
+.btnclick {
+	height:100px;
+	width:320px;
+	border-radius: 15px;
+	background-color: rgb(43, 150, 223); 
+	border:0px;
+	outline-style: none;
+	color:white;
+	font-size: 25px;
+}
+
+
+
 
